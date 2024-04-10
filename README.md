@@ -3,7 +3,7 @@
 ## 📝 Descrição
 
 
-[Clique aqui](movie-sepia-two.vercel.app) para acessar o deploy do projeto
+[Clique aqui](https://digital-next-blue.vercel.app/) para acessar o deploy do projeto
 
 ## 🚀 Tecnologias utilizadas
 - Next.js 13
